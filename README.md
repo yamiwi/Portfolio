@@ -1,4 +1,4 @@
 Resume: <br>
 Email: germkonp@gmail.com <br>
 LinkedIn: <br>
-Написать для каждого проекта краткое описание, проблему которую я исследовал, какие техники использовал, с какими проблемами столкнулся, тоесть нужна краткая summary к каждому проекту. Так же нужно описать где взял данные для проекта и прикрепить источник если таковой имеется.
+write down a summary for each project. Things to include: data source, the problem, the solution, ETL techniques etc., 
