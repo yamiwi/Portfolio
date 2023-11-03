@@ -1,3 +1,11 @@
+### Certificates folder contains all certificates i have received during my study. There are:
+* 3 Google sertificates on Coursera (Data Analytics/Advanced Data Analytics/Business Intelligence). Also there are 2 more courses which i have enrolled on (Microsoft PowerBi Data Analyst/Meta Marketing Analytics), but they are still in progress so there are no certificates yet.
+* Interactive SQL simulator certificate by Far Eastern Federal University (DVFU) on Stepik.
+* SQL window functions sertificate on Stepik.
+* PowerBi certificate on Stepik.
+* 4 Python generation sertificates on Stepik (Beginner/Advanced/Professional/OOP qualifications).
+* Regular expressions in Python certificate on Stepik.
+* Basics of statistics certificate by Bioinformatics Institute on Stepik.
 ### HR ANALYSIS (Python, Pandas, NumPy, MatplotLib, Seaborn, sklearn)
 Loaded a human resources data on 14999 employees from Kaggle. Implemented data cleaning techniques (such as removing duplicates, formatting records to match consistent data types, handle with missing values, checking for wrong values) to ensure data integrity for future exploration and visualization. Then performed exploratory data analysis (EDA) to delve in data and discover hidden patterns and trends by constructing comprehensive data graphs and charts. Revealed the reasons behind employees low satisfaction levels. Built a logistic regression model to identify whether employee will leave a company due to provided factors. <br>
 ### DISNEY MOVIES WEB-SCRAPING (Python, Pandas, Numpy, BeautifulSoup4, RegExp, MatplotLib, Seaborn) 
