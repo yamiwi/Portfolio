@@ -1,8 +1,8 @@
-HR ANALYSIS <br>
+### HR ANALYSIS (Python, Pandas, NumPy, MatplotLib, Seaborn, sklearn) <br>
 Loaded a human resources data on 14999 employees from Kaggle. Implemented data cleaning techniques (such as removing duplicates, formatting records to match consistent data types, handle with missing values, checking for wrong values) to ensure data integrity for future exploration and visualization. Then performed exploratory data analysis (EDA) to delve in data and discover hidden patterns and trends by constructing comprehensive data graphs and charts. Revealed the reasons behind employees low satisfaction levels. Built a logistic regression model to identify whether employee will leave a company due to provided factors. <br>
-DISNEY MOVIES WEB-SCRAPING <br>
+### DISNEY MOVIES WEB-SCRAPING (Python, Pandas, Numpy, BeautifulSoup4, RegExp, MatplotLib, Seaborn) <br>
 
-MIDDLE-EAST CONFLICT ANALYSIS <br>
+### MIDDLE-EAST CONFLICT ANALYSIS (MySQL, PowerBi) <br>
 
 
 
