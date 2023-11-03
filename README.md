@@ -1,1 +1,5 @@
-написать сюда краткое описание для проектов <br>
+HR ANALYSIS <br>
+DISNEY MOVIES WEB-SCRAPING <br>
+MIDDLE-EAST CONFLICT <br>
+
+
